@@ -9,9 +9,9 @@
 + [Data sciEnce on GrAphS (DEGAS)](https://dsiseminar.github.io/)
 
 ### reviews & tutorials
-+ Hamilton et al., "[Representation learning on graphs](https://arxiv.org/abs/1709.05584)", IEEE Data Engineering Bulletin, vol. 40, no. 3, pp. 42-74, September 2017.
++ Hamilton et al., "[Representation learning on graphs](https://arxiv.org/abs/1709.05584)", arXiv, September 2017.
 + Chami et al., "[Machine learning on graphs](https://arxiv.org/abs/2005.03675)", arXiv, May 2020.
-+ Bronstein et al., "[Geometric deep learning](https://ieeexplore.ieee.org/document/7974879/)", IEEE SPM, vol. 34, no. 4, pp. 18-42, July 2017.
++ Bronstein et al., "[Geometric deep learning: Going beyond Euclidean data](https://arxiv.org/abs/1611.08097)", arXiv, November 2016.
 + Bronstein et al., "[Geometric deep learning: Grids, groups, graphs, geodesics, and gauges](https://arxiv.org/abs/2104.13478)", arXiv, April 2021.
 + Battaglia et al., "[Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261)", arXiv, June 2018.
 + Wu et al., "[A comprehensive survey on graph neural networks](https://arxiv.org/abs/1901.00596)", arXiv, January 2019.
