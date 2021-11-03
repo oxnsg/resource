@@ -1,12 +1,12 @@
 # resource
 
-## machine learning on graphs
-
-### active seminar series and reading groups
+## active seminar series and reading groups
 + [Oxford Network Seminar](https://www.maths.ox.ac.uk/events/list/3329)
 + [Graph Representation Learning Reading Group at Mila](https://grlmila.github.io/)
 + [Learning on Graphs and Geometry Reading Group](https://hannes-stark.com/logag-reading-group)
 + [Data sciEnce on GrAphS (DEGAS)](https://dsiseminar.github.io/)
+
+## machine learning on graphs
 
 ### reviews & tutorials
 + Hamilton et al., "[Representation learning on graphs](https://arxiv.org/abs/1709.05584)", arXiv, September 2017.
@@ -32,6 +32,10 @@
 + [Deep Graph Library](https://github.com/dmlc/dgl)
 
 ## graph signal processing
+
+### reviews & tutorials
+
+### libraries
 
 ## network science and complex systems
 
