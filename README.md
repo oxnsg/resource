@@ -9,7 +9,7 @@
 + [Data sciEnce on GrAphS (DEGAS)](https://dsiseminar.github.io/)
 
 ### reviews & tutorials
-+ Hamilton et al., "[Representation learning on graphs](http://sites.computer.org/debull/A17sept/issue1.htm)", IEEE Data Engineering Bulletin, vol. 40, no. 3, pp. 42-74, September 2017.
++ Hamilton et al., "[Representation learning on graphs](https://arxiv.org/abs/1709.05584)", IEEE Data Engineering Bulletin, vol. 40, no. 3, pp. 42-74, September 2017.
 + Chami et al., "[Machine learning on graphs](https://arxiv.org/abs/2005.03675)", arXiv, May 2020.
 + Bronstein et al., "[Geometric deep learning](https://ieeexplore.ieee.org/document/7974879/)", IEEE SPM, vol. 34, no. 4, pp. 18-42, July 2017.
 + Bronstein et al., "[Geometric deep learning: Grids, groups, graphs, geodesics, and gauges](https://arxiv.org/abs/2104.13478)", arXiv, April 2021.
@@ -30,7 +30,6 @@
 ### libraries
 + [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric)
 + [Deep Graph Library](https://github.com/dmlc/dgl)
-
 
 ## graph signal processing
 
