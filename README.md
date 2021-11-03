@@ -1,12 +1,12 @@
 # resource
 
-## active seminar series and reading groups
+## 1. active seminar series and reading groups
 + [Oxford Network Seminar](https://www.maths.ox.ac.uk/events/list/3329)
 + [Graph Representation Learning Reading Group at Mila](https://grlmila.github.io/)
 + [Learning on Graphs and Geometry Reading Group](https://hannes-stark.com/logag-reading-group)
 + [Data sciEnce on GrAphS (DEGAS)](https://dsiseminar.github.io/)
 
-## machine learning on graphs
+## 2. machine learning on graphs
 
 ### reviews & tutorials
 + Hamilton et al., "[Representation learning on graphs](https://arxiv.org/abs/1709.05584)", arXiv, September 2017.
@@ -31,7 +31,7 @@
 + [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric)
 + [Deep Graph Library](https://github.com/dmlc/dgl)
 
-## graph signal processing
+## 3. graph signal processing
 
 ### reviews & tutorials
 + Shuman et al., "[The emerging field of signal processing on graphs](http://ieeexplore.ieee.org/document/6494675/)", IEEE SPM, vol. 30, no. 3, pp. 83-98, May 2013.
@@ -51,6 +51,6 @@
 + Graph signal processing: [GSPBox](https://epfl-lts2.github.io/gspbox-html/) [PyGSP](https://github.com/epfl-lts2/pygsp) [GraSP](https://github.com/STAC-USC/GraSP)
 + Spectral graph wavelet transform (SGWT): [SGWT toolbox](https://wiki.epfl.ch/sgwt) [PySGWT](https://github.com/aweinstein/pysgwt)
 
-## network science and complex systems
+## 4. network science and complex systems
 
-## social data science
+## 5. social data science
