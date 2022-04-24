@@ -6,7 +6,7 @@
 + [Learning on Graphs and Geometry Reading Group](https://hannes-stark.com/logag-reading-group)
 + [Data sciEnce on GrAphS (DEGAS)](https://dsiseminar.github.io/)
 
-## 2. machine learning on graphs
+## 2. graph machine learning
 
 ### reviews & tutorials
 + Hamilton et al., "[Representation learning on graphs](https://arxiv.org/abs/1709.05584)", arXiv, September 2017.
