@@ -3,8 +3,9 @@
 ## 1. active seminar series and reading groups
 + [Oxford Network Seminar](https://www.maths.ox.ac.uk/events/list/3329)
 + [Graph Representation Learning Reading Group at Mila](https://grlmila.github.io/)
-+ [Learning on Graphs and Geometry Reading Group](https://hannes-stark.com/logag-reading-group)
++ [Learning on Graphs and Geometry Reading Group (LoGaG) ](https://hannes-stark.com/logag-reading-group)
 + [Data sciEnce on GrAphS (DEGAS)](https://dsiseminar.github.io/)
++ [M2D2: Molecular Modeling And Drug Discovery](https://valence-discovery.github.io/M2D2-meetings/)
 
 ## 2. graph machine learning
 
@@ -28,8 +29,13 @@
 + https://chrsmrrs.github.io/datasets/
 
 ### libraries
-+ [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric)
-+ [Deep Graph Library](https://github.com/dmlc/dgl)
++ [PyG (PyTorch)](https://github.com/rusty1s/pytorch_geometric)
++ [Deep Graph Library (PyTorch)](https://github.com/dmlc/dgl)
++ [Jraph (Jax)](https://github.com/deepmind/jraph)
++ [Spektral (Tensorflow)](https://graphneural.network/)
+
+### Other
++ [Graph Machine Learning Telegram group](https://t.me/graphML)
 
 ## 3. graph signal processing
 
