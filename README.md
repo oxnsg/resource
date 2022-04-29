@@ -5,7 +5,7 @@
 + [Graph Representation Learning Reading Group at Mila](https://grlmila.github.io/)
 + [Learning on Graphs and Geometry Reading Group (LoGaG) ](https://hannes-stark.com/logag-reading-group)
 + [Data sciEnce on GrAphS (DEGAS)](https://dsiseminar.github.io/)
-+ [M2D2: Molecular Modeling And Drug Discovery](https://valence-discovery.github.io/M2D2-meetings/)
++ [Molecular Modeling And Drug Discovery (M2D2)](https://valence-discovery.github.io/M2D2-meetings/)
 
 ## 2. graph machine learning
 
@@ -24,7 +24,7 @@
 + https://github.com/DeepGraphLearning/LiteratureDL4Graph
 + https://github.com/thunlp/GNNPapers
 + https://github.com/thunlp/NRLPapers
-+ https://t.me/graphML/491
++ [Link to join the Graph Machine Learning Telegram group](https://t.me/graphML/491)
 + https://ogb.stanford.edu
 + https://chrsmrrs.github.io/datasets/
 
@@ -33,9 +33,6 @@
 + [Deep Graph Library (PyTorch)](https://github.com/dmlc/dgl)
 + [Jraph (Jax)](https://github.com/deepmind/jraph)
 + [Spektral (Tensorflow)](https://graphneural.network/)
-
-### Other
-+ [Graph Machine Learning Telegram group](https://t.me/graphML)
 
 ## 3. graph signal processing
 
